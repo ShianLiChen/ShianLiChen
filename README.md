@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: shianli.chen@gmail.com or lchen1175@gmail.com
+- 🌱 I’m currently learning SQL, JavaScript and RestAPIs 
+- 🔭 I’m currently working on building my own profile webpage
+- ⚡ Fun fact: I am a huge Manchester United and F1 fan!
 
 <!--
 **ShianLiChen/ShianLiChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
