@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif", width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif", width="200"/>
 </div>
+
 ### Hi there 👋
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: shianli.chen@gmail.com or lchen1175@gmail.com
