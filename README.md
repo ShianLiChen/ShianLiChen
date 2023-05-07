@@ -5,7 +5,7 @@
 ### Hi there 👋
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: shianli.chen@gmail.com or lchen1175@gmail.com
-- 🌱 I’m currently learning SQL, JavaScript and RestAPIs 
+- 🌱 I’m currently learning SQL and Docker
 - 🔭 I’m currently working on building my own profile webpage
 - ⚡ Fun fact: I am a huge Manchester United and F1 fan!
 
